@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ayushsharma.codes@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/meAyushSharma/myResume/blob/main/my-resume-pdf.pdf](https://github.com/meAyushSharma/myResume/blob/main/my-resume-pdf.pdf)
+- 📄 Know about my experiences [Here ↗️](https://drive.google.com/file/d/1Fbqdfu-_WKBCkO_XhAGDRvwKzpS0bmV8/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
