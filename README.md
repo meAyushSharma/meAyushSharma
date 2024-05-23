@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [https://meayush.hashnode.dev/](https://meayush.hashnode.dev/)
 
-- 📫 How to reach me **ayushsharma.codes@gmail.com**
-
 - 📄 Know about my experiences [Here ↗️](https://drive.google.com/file/d/1Fbqdfu-_WKBCkO_XhAGDRvwKzpS0bmV8/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
