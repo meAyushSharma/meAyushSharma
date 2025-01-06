@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://meayush.hashnode.dev/](https://meayush.hashnode.dev/)
 
-- 📄 Know about my experiences [Here ↗️](https://drive.google.com/file/d/1Fbqdfu-_WKBCkO_XhAGDRvwKzpS0bmV8/view?usp=drive_link)
+- 📄 Know about my experiences [Here ↗️](https://drive.google.com/file/d/17D3O4e6D5frtZuqstH73iQk_JbG2hDMr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
