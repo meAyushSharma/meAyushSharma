@@ -11,7 +11,7 @@ Passionate about building scalable web applications and diving deep into open-so
 - 🌱 I am a full stack developer and learning DevOps
 - 👯 Looking to collaborate on **exciting open-source projects**
 - 📝 I regularly write tech blogs on [Hashnode](https://meayush.hashnode.dev/)
-- 📄 Check out my [Resume](https://drive.google.com/file/d/17D3O4e6D5frtZuqstH73iQk_JbG2hDMr/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1ztMYIo4-S3DyBI3Nb_ZhZ1qHeSqW-qZy/view?usp=sharing)
 
 ---
 
